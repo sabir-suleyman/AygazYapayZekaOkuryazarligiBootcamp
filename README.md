@@ -1,3 +1,3 @@
 # AygazYapayZekaOkuryazarligiBootcamp
 
-Koç Holding işbirliğinde ve Aygaz W-Energy For Equality kapsamında organize edilen bir Bootcamp'tir.
+Koç Holding işbirliğinde ve Aygaz W-Energy For Equality kapsamında organize edilen bir Bootcamp'tir. Bu proje kapsamşnda .. . . . .

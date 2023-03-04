@@ -2,7 +2,7 @@
 
 Koç Holding işbirliğinde ve Aygaz W-Energy For Equality kapsamında organize edilen bir Bootcamp.
 
-##Proje Detayı
+## Proje Detayı
 
 
 Depremi önlemek ve Deprem öncesi veya sonrasında alınabilecek önlemler nelerdir?

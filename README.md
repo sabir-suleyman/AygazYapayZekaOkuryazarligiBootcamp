@@ -1,4 +1,4 @@
-# AygazYapayZekaOkuryazarligiBootcamp
+# Aygaz Yapay Zeka Okuryazarlığı Bootcamp
 
 Koç Holding işbirliğinde ve Aygaz W-Energy For Equality kapsamında organize edilen bir Bootcamp.
 

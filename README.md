@@ -17,16 +17,16 @@ Global AI Hub olarak ülkemizde gerçekleşen deprem felaketi ile birlikte sizle
 Projeniz için ilk olarak Depremi önlemek ve Deprem öncesi veya sonrasında alınabilecek önlemleer nelerdir? sorusuna bir cevap bulmak ile başlamalıdır. 
 Birçok kaynaktan araştırma yapılmalı ve sonuçları biraraya getirerek bir çözüm bulmalısınız. Bu çözüm sizin projedeki ana fikriniz olacaktır.
 
-## 2.Araştırmalar yapılarak fikrinizi geliştirin
+## 2. Araştırmalar yapılarak fikrinizi geliştirin
 - Benzer projeler var mı?
 - Benzer projeler varsa, onların eksikleri nelerdir?
 - Eksikleri nasıl tamamlayabilirsiniz?
 - Bu soruları göz önünde bulundurarak probleme çözüm aşamasındaki ilk deneyimlerinizi belirlemiş olacaksınız.
 
-## 3.Fikrinizi geliştirin ve Sunum haline getirin
+## 3. Fikrinizi geliştirin ve Sunum haline getirin
 - Oluşturduğunuz fikirlerinizi bir sunum haline getirin ve etkili sunum tekniklerini araştırarak kullanmayı unutmayın.
 
-## 4.Projenin Değerlendirme Aşamaları
+## 4. Projenin Değerlendirme Aşamaları
 Aşağıdaki maddeler değerlendirme aşaması olarak kabul edilecektir. Lütfen projenizi yaparken dikkat ediniz.
 - Fikriniz 
 - Fikrin yaratacağı değer
@@ -34,7 +34,7 @@ Aşağıdaki maddeler değerlendirme aşaması olarak kabul edilecektir. Lütfen
 - Sunum’un akıcılığı ve tutarlılığı
 - Sunumun içerikleri
 
-## 5.Proje Teslimi
+## 5. Proje Teslimi
 
 - Proje bir sunum formatında .pdf uzantısı ile GitHub’a eklenip linki bizimle paylaşılmalıdır. Projeyi paylaşmak için form linki: https://forms.gle/H4K8PGGKTMdradje6
 - Projeyi GitHub’a yükleyerek bizlere linkini iletmeniz yeterlidir.

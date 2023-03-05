@@ -1,11 +1,11 @@
-## Bu dosyayı başka bir dilde oku
+## Bu dosyayı başka bir dilde oku:
 <a href="README.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
 <a href="README.en.md"><img src="https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge"></a>
 
-## Aygaz Artificial Intelligence Literacy Bootcamp: Global Aİ Hub
+## 💻Aygaz Artificial Intelligence Literacy Bootcamp: Global Aİ Hub
 A Bootcamp organized in cooperation with Koç Holding and within the scope of Aygaz W-Energy For Equality.
 
-## Project Details
+## 🧩Project Details
 What are the precautions that can be taken before or after an earthquake?
 
 As Global AI Hub, with the earthquake disaster in our country, we thought about what we can do with you. In this sense, we will launch a use-case project where you can freely generate ideas at the Aygaz Artificial Intelligence Literacy Bootcamp. We expect you to create an idea explaining how earthquake disasters can be prevented or minimized with Artificial Intelligence, Machine Learning and Deep Learning. You can prepare your project as a presentation and in pdf format, either alone or in a team with bootcamp participants. Your project will be evaluated in terms of the idea you have created, the explanations in your presentations and effective presentation techniques, and the most successful project will be invited to the Global AI Hub Graduation broadcast and will be allowed to present the project.

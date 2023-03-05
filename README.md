@@ -13,7 +13,7 @@ Depremi önlemek ve Deprem öncesi veya sonrasında alınabilecek önlemler nele
 
 Global AI Hub olarak ülkemizde gerçekleşen deprem felaketi ile birlikte sizlerle neler yapabiliriz diye düşündük. Bu anlamda özgürce fikir üretebileceğiniz bir use-case proje çalışmasını Aygaz Yapay Zeka Okuryazarlığı Bootcamp’inde başlatacağız. Amacımız Deprem Felaketlerinin Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme gibi konularla nasıl önlenebileceğini veya en aza indirgeyebileceğinizi açıklayan bir fikir oluşturmanızı bekliyoruz. Projenizi bir sunum halinde ve pdf formatında, ister tek başınıza ister bootcamp katılımcıları ile bir takım oluşturarak hazırlayabilirsiniz. Projeniz, oluşturduğunuz fikir, sunumlarınızdaki açıklamalar ve etkili sunum teknikleri açısında değerlendirilecek ve en başarılı görülen proje, Global AI Hub Mezuniyet yayınına davet edilerek projenin sunulmasına izin verilecek. 
 
-## 1.Probleme bir çözüm bulunuz
+## 1. Probleme bir çözüm bulunuz
 Projeniz için ilk olarak Depremi önlemek ve Deprem öncesi veya sonrasında alınabilecek önlemleer nelerdir? sorusuna bir cevap bulmak ile başlamalıdır. 
 Birçok kaynaktan araştırma yapılmalı ve sonuçları biraraya getirerek bir çözüm bulmalısınız. Bu çözüm sizin projedeki ana fikriniz olacaktır.
 

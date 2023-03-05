@@ -1,12 +1,13 @@
 ## Bu səhifəni başqa dillərdə oxu:
+<a href="README.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
+<a href="README.en.md"><img src="https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge"></a>
+<a href="README.az.md"><img src="https://img.shields.io/badge/-AZ%C6%8FRBAYCANCA-red?style=for-the-badge"></a>
 
+# 💻Aygaz Süni İntellekt Savadlılığı Bootcamp: Global Aİ Hub
 
-# 💻Aygaz Yapay Zeka Okuryazarlığı Bootcamp: Global Aİ Hub
-
-Koç Holding işbirliğinde ve Aygaz W-Energy For Equality kapsamında organize edilen bir Bootcamp.
+Koç Holding və Aygaz W-Energy For Equality ortaq əməkdaşlığı ilə birlikdə təşkil olunmuş bir Bootcamp.
 
 ## 🧩Proje Detayı
-
 
 Depremi önlemek ve Deprem öncesi veya sonrasında alınabilecek önlemler nelerdir?
 

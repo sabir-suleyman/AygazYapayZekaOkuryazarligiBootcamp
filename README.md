@@ -42,3 +42,4 @@ Aşağıdaki maddeler değerlendirme aşaması olarak kabul edilecektir. Lütfen
 - Global AI Hub tarafından sizlere gönderilecek olan forma projenizin GitHub linkini ekleyebilirsiniz.
 - Proje Teslim Tarihi: 5 Mart 2023 Saat 23:59
 
+

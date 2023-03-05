@@ -1,6 +1,9 @@
 ## Bu dosyayı başka bir dilde oku:
-<a href="README.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
 <a href="README.en.md"><img src="https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
+<a href=""><img src="[https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge](https://img.shields.io/badge/-AZ%C6%8FRBAYCANCA-red?style=for-the-badge)"></a>
+
+
 
 ## 💻Aygaz Artificial Intelligence Literacy Bootcamp: Global Aİ Hub
 A Bootcamp organized in cooperation with Koç Holding and within the scope of Aygaz W-Energy For Equality.

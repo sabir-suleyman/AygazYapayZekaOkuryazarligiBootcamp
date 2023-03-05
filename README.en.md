@@ -40,3 +40,4 @@ The following items will be considered as the evaluation phase. Please pay atten
 - Projects will be done as a team or individually. The teams created should consist of a maximum of 5 people. You do not need to be in the same Bootcamp group when creating project groups.
 - You can add the GitHub link of your project to the form that will be sent to you by Global AI Hub.
 - Project Deadline: March 5, 2023 at 23:59
+ 

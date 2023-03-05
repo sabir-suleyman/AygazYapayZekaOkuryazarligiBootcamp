@@ -20,7 +20,7 @@ For your project, you should first start by finding an answer to the question: W
 - By considering these questions, you will have identified your first experiences in the problem solving phase.
 
 ## 3.Develop your idea and make a presentation
-Put your ideas into a presentation and remember to research and use effective presentation techniques.
+- Put your ideas into a presentation and remember to research and use effective presentation techniques.
 
 ## 4.Evaluation Stages of the Project
 The following items will be considered as the evaluation phase. Please pay attention while doing your project.

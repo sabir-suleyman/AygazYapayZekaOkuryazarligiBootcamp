@@ -7,7 +7,7 @@
 
 Koç Holding və Aygaz W-Energy For Equality ortaq əməkdaşlığı ilə birlikdə təşkil olunmuş bir Bootcamp.
 
-## 🧩Proje Detayı
+## 🧩Proyekt Açıqlaması
 
 Zəlzələni qarşısını almaq üçün və zəlzələdən öncə/sonra hansı tədbirlər alınmalıdır?
 
@@ -37,7 +37,7 @@ Aşağıdaki maddələr dəyərlendirmə mərhələləri olaraq qəbul edilib. L
 
 ## 5. Proyekt Təslimi 🗓
 
-- Proyekt bir slayd formatında .pdf uzantısı ile GitHub’a yüklənib linki bizimlə paylaşılmalıdır. Proyekti paylaşmak üçün form linki: https://forms.gle/H4K8PGGKTMdradje6
+- Proyekt slayd formatında .pdf uzantısı ilə GitHub’a yüklənib linki bizimlə paylaşılmalıdır. Proyekti paylaşmak üçün form linki: https://forms.gle/H4K8PGGKTMdradje6
 - Proyekti GitHub’a yükləyərək bizlərə linkini göndərməyiniz yetərlidir.
 - Proyektlər qrup ya da fərdi şəkildə hazırlanmalıdır. Qruplar maksimum 5 nəfərlik olmalıdır. Proyekt qruplarını yaradarkən eyni Bootcamp qrupunda yer almanıza zəruri deyil.
 - Global AI Hub tərəfindən sizlərə göndəriləcək olan forma proyektinizin GitHub linkini əlavə etməlisiniz.
